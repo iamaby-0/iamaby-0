@@ -1,179 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1114&height=170&section=header&text=ABY.DEV&fontColor=35E9A0&fontSize=64&fontAlignY=45&desc=Java%20%26%20Backend-Focused%20Software%20Developer&descColor=A5B4B8&descSize=18&descAlignY=68" alt="ABY.DEV — Java & Backend-Focused Software Developer" width="100%" />
+<!-- Add the uploaded avatar to your profile repository as assets/aby-avatar.png -->
+<img src="assets/aby-avatar.png" alt="Aby.Dev neon coder avatar" width="220" />
 
-**Abrar Ahmad** &nbsp;·&nbsp; B.Tech CSE &nbsp;·&nbsp; Greater Noida, India
+# <span>ABY.DEV</span>
 
-*Clean APIs, practical AI integrations, and software built to last.*
+### Java & Backend-Focused Software Developer
 
-<a href="https://aby-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Aby.Dev-35E9A0?style=for-the-badge&logo=vercel&logoColor=0B1114" alt="Portfolio" /></a>
-<a href="https://github.com/iamaby-0"><img src="https://img.shields.io/badge/GitHub-iamaby--0-121E22?style=for-the-badge&logo=github&logoColor=35E9A0&labelColor=121E22&color=24363B" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/iamaby_0/"><img src="https://img.shields.io/badge/LeetCode-iamaby__0-121E22?style=for-the-badge&logo=leetcode&logoColor=35E9A0&labelColor=121E22&color=24363B" alt="LeetCode" /></a>
-<a href="mailto:abrarahmad.se@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-121E22?style=for-the-badge&logo=gmail&logoColor=35E9A0&labelColor=121E22&color=24363B" alt="Email" /></a>
+*Building useful software, APIs, and AI-powered applications.*
+
+<a href="https://aby-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Aby.Dev-35E9A0?style=for-the-badge&logo=vercel&logoColor=0B1114" alt="Portfolio" />
+</a>
+<a href="https://github.com/iamaby-0">
+  <img src="https://img.shields.io/badge/GitHub-iamaby--0-18272C?style=for-the-badge&logo=github&logoColor=35E9A0" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/u/iamaby_0/">
+  <img src="https://img.shields.io/badge/LeetCode-iamaby__0-18272C?style=for-the-badge&logo=leetcode&logoColor=35E9A0" alt="LeetCode" />
+</a>
+<a href="mailto:abrarahmad.se@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-18272C?style=for-the-badge&logo=gmail&logoColor=35E9A0" alt="Email" />
+</a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-Java and backend-focused Computer Science graduate (B.Tech CSE, Galgotias University, 2026) with a strong foundation in object-oriented programming, data structures, algorithms, and database systems.
+- 🎓 Computer Science Engineering graduate from **Galgotias University** — CGPA **8.51/10**
+- 💻 Focused on **Java, backend development, REST APIs, and database systems**
+- 🤖 Building full-stack applications with third-party AI API integrations
+- 🌐 Creator and maintainer of **[HyperOSThemes.com](https://hyperosthemes.com/)**
+- 📍 Greater Noida, Uttar Pradesh, India
+- 📫 **[abrarahmad.se@gmail.com](mailto:abrarahmad.se@gmail.com)**
 
-I build REST APIs with Node.js and Express, work with MySQL and MongoDB, and integrate third-party AI and speech APIs into full-stack applications. I care about secure, scalable, and maintainable software.
+## Tech Stack
 
-Outside of coding projects, I run a technology blog and have managed a Telegram community publishing regular tech updates.
+<!-- Use original technology logos from skillicons.dev; logo colors are the official brand colors. -->
 
-- 🎯 Looking for Java / backend software developer roles
-- 🌐 Portfolio: [aby-dev.vercel.app](https://aby-dev.vercel.app/)
-- 📫 Reach me: [abrarahmad.se@gmail.com](mailto:abrarahmad.se@gmail.com)
+<div align="left">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,python,mysql&theme=dark" alt="Java, JavaScript, C++, Python, MySQL" />
 
----
+  <h3>Backend & APIs</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Node.js, Express, Postman" />
+  <br />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=0B1114" alt="Deepgram" />
 
-## Technical Skills
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="React, HTML, CSS" />
 
-**Languages**
+  <h3>Databases & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,androidstudio&theme=dark" alt="MongoDB, MySQL, Git, GitHub, VS Code, Android Studio" />
 
-![Java](https://img.shields.io/badge/Java-121E22?style=flat-square&logo=openjdk&logoColor=35E9A0)
-![JavaScript](https://img.shields.io/badge/JavaScript-121E22?style=flat-square&logo=javascript&logoColor=35E9A0)
-![C++](https://img.shields.io/badge/C++-121E22?style=flat-square&logo=cplusplus&logoColor=35E9A0)
-![SQL](https://img.shields.io/badge/SQL-121E22?style=flat-square&logo=postgresql&logoColor=35E9A0)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-121E22?style=flat-square&logo=nodedotjs&logoColor=35E9A0)
-![Express.js](https://img.shields.io/badge/Express.js-121E22?style=flat-square&logo=express&logoColor=35E9A0)
-![REST APIs](https://img.shields.io/badge/REST_APIs-121E22?style=flat-square&logo=fastapi&logoColor=35E9A0)
-![Gemini API](https://img.shields.io/badge/Gemini_API-121E22?style=flat-square&logo=googlegemini&logoColor=35E9A0)
-![Groq API](https://img.shields.io/badge/Groq_API-121E22?style=flat-square&logoColor=35E9A0)
-![Deepgram](https://img.shields.io/badge/Deepgram-121E22?style=flat-square&logoColor=35E9A0)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-121E22?style=flat-square&logo=react&logoColor=35E9A0)
-![HTML5](https://img.shields.io/badge/HTML5-121E22?style=flat-square&logo=html5&logoColor=35E9A0)
-![CSS3](https://img.shields.io/badge/CSS3-121E22?style=flat-square&logo=css3&logoColor=35E9A0)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-121E22?style=flat-square&logo=mongodb&logoColor=35E9A0)
-![MySQL](https://img.shields.io/badge/MySQL-121E22?style=flat-square&logo=mysql&logoColor=35E9A0)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-121E22?style=flat-square&logo=git&logoColor=35E9A0)
-![GitHub](https://img.shields.io/badge/GitHub-121E22?style=flat-square&logo=github&logoColor=35E9A0)
-![VS Code](https://img.shields.io/badge/VS_Code-121E22?style=flat-square&logo=visualstudiocode&logoColor=35E9A0)
-
-**CS Fundamentals:** Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks
-
----
+  <h3>Core Computer Science</h3>
+  <p>Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks</p>
+</div>
 
 ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💸 AI-Powered Finance Tracker</h3>
-      <p>Full-stack app for income, expense, and budget management with analytics and interactive Chart.js dashboards. Uses an LLM (Qwen via Groq API) to auto-categorize expenses, flag unusual spending, and generate budget recommendations, savings projections, and reports.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-121E22?style=flat-square&logo=react&logoColor=35E9A0" alt="React.js" />
-        <img src="https://img.shields.io/badge/Node.js-121E22?style=flat-square&logo=nodedotjs&logoColor=35E9A0" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-121E22?style=flat-square&logo=express&logoColor=35E9A0" alt="Express.js" />
-        <img src="https://img.shields.io/badge/MongoDB-121E22?style=flat-square&logo=mongodb&logoColor=35E9A0" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Groq_API-121E22?style=flat-square&logoColor=35E9A0" alt="Groq API" />
-        <img src="https://img.shields.io/badge/Chart.js-121E22?style=flat-square&logo=chartdotjs&logoColor=35E9A0" alt="Chart.js" />
-      </p>
+      <h3>💰 AI-Powered Personal Finance Tracker</h3>
+      A full-stack finance application for managing expenses, income, budgets, analytics, and interactive charts. Integrates an LLM through the Groq API for AI-assisted financial features.
+      <br /><br />
+      <strong>Built with</strong><br />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express, MongoDB" />
+      <br />
+      <img src="https://img.shields.io/badge/Groq%20API-000000?style=flat-square&logo=groq&logoColor=white" alt="Groq API" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ AI-Driven Interview Portal</h3>
-      <p>Voice-based interview platform that automates initial candidate screening through spoken, turn-based conversation. Gemini generates resume-aware questions; Deepgram handles real-time speech-to-text and text-to-speech.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-121E22?style=flat-square&logo=react&logoColor=35E9A0" alt="React.js" />
-        <img src="https://img.shields.io/badge/Gemini_API-121E22?style=flat-square&logo=googlegemini&logoColor=35E9A0" alt="Gemini API" />
-        <img src="https://img.shields.io/badge/Deepgram_Flux-121E22?style=flat-square&logoColor=35E9A0" alt="Deepgram Flux" />
-        <img src="https://img.shields.io/badge/Deepgram_Aura-121E22?style=flat-square&logoColor=35E9A0" alt="Deepgram Aura" />
-      </p>
+      <h3>🧠 AI-Driven Interview Portal</h3>
+      A real-time voice-based AI interview platform designed to automate initial candidate screening with resume-aware questions and natural speech interaction.
+      <br /><br />
+      <strong>Built with</strong><br />
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+      <br />
+      <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=0B1114" alt="Deepgram" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧮 Maths Doubt Solver</h3>
-      <p>Web app that uses Google's Gemini API to solve maths problems with step-by-step explanations, with a problem-solver mode and a chat mode.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-121E22?style=flat-square&logo=javascript&logoColor=35E9A0" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/HTML5-121E22?style=flat-square&logo=html5&logoColor=35E9A0" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-121E22?style=flat-square&logo=css3&logoColor=35E9A0" alt="CSS3" />
-        <img src="https://img.shields.io/badge/Gemini_API-121E22?style=flat-square&logo=googlegemini&logoColor=35E9A0" alt="Gemini API" />
-      </p>
-      <p><a href="https://github.com/iamaby-0/MathsDoubtSolver"><b>View repository →</b></a></p>
+      <h3>➗ Maths Doubt Solver</h3>
+      A web application that integrates Google's Gemini API to help users solve mathematics questions.
+      <br /><br />
+      <a href="https://github.com/idrag0/MathsDoubtSolver">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 HyperOSThemes.com</h3>
-      <p>Technology blog for publishing and discovering HyperOS and Xiaomi themes, backed by an online Telegram community and regular tech updates.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Blogger-121E22?style=flat-square&logo=blogger&logoColor=35E9A0" alt="Blogger" />
-        <img src="https://img.shields.io/badge/Telegram-121E22?style=flat-square&logo=telegram&logoColor=35E9A0" alt="Telegram" />
-      </p>
-      <p><a href="https://hyperosthemes.com/"><b>Visit site →</b></a></p>
+      <h3>🌐 HyperOSThemes.com</h3>
+      A technology blog focused on discovering and sharing HyperOS and Xiaomi themes.
+      <br /><br />
+      <a href="https://hyperosthemes.com/">Visit website →</a>
     </td>
   </tr>
 </table>
 
----
+## Experience & Certification
 
-## Experience
+**Web Full Stack Developer Intern**  
+AICTE – EduSkills Foundation · Remote · October 2024 – December 2024
 
-**Web Full Stack Developer Intern (Virtual)** — AICTE · EduSkills Foundation  
-*Remote · Oct 2024 – Dec 2024*
+- Completed a virtual full-stack development internship.
+- Practiced front-end and back-end development with JavaScript, Node.js, and databases.
+- Built multiple projects and collaborated with mentors and peers.
 
-- Completed a 2-month virtual internship covering HTML, CSS, JavaScript, Node.js, and databases.
-- Built front-end and back-end web projects during the program.
-
-**Certification:** Full Stack Web Development — AICTE–EduSkills Foundation (2024)
-
----
+**Certification:** Full Stack Web Development — AICTE–EduSkills Foundation
 
 ## Education
 
-**B.Tech, Computer Science Engineering** — Galgotias University, Greater Noida  
-Sep 2022 – Jul 2026 · **CGPA: 8.51 / 10**
+**B.Tech, Computer Science Engineering**  
+Galgotias University, Greater Noida · September 2022 – July 2026  
+**CGPA:** 8.51/10
 
----
+## Community & Achievements
 
-## Community
+- Managed and grew a Telegram technology community of **35,000+ members**, as stated in my resume.
+- Publish technology content through [HyperOSThemes.com](https://hyperosthemes.com/).
+- Connect with the communities: [Themes4MIUI](https://t.me/themes4miui) · [MiuithemesX](https://t.me/MiuithemesX)
 
-- Managed a large Telegram community, publishing regular tech updates: [Themes4MIUI](https://t.me/themes4miui) · [MiuithemesX](https://t.me/MiuithemesX)
-- Run and publish on [HyperOSThemes.com](https://hyperosthemes.com/)
-
----
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamaby-0&show_icons=true&hide_border=true&bg_color=0B1114&title_color=35E9A0&icon_color=4FFFB0&text_color=A5B4B8" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaby-0&layout=compact&hide_border=true&bg_color=0B1114&title_color=35E9A0&text_color=A5B4B8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamaby-0&show_icons=true&hide_border=true&bg_color=0B1114&title_color=35E9A0&icon_color=4FFFB0&text_color=A5B4B8" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaby-0&layout=compact&hide_border=true&bg_color=0B1114&title_color=35E9A0&text_color=A5B4B8" alt="Top languages" />
 
-<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=iamaby-0&hide_border=true&background=0B1114&stroke=24363B&ring=35E9A0&fire=4FFFB0&currStreakNum=F1F5F4&currStreakLabel=35E9A0&sideNums=F1F5F4&sideLabels=A5B4B8&dates=71848A" />
+<img src="https://streak-stats.demolab.com?user=iamaby-0&hide_border=true&background=0B1114&ring=35E9A0&fire=4FFFB0&currStreakLabel=35E9A0&sideLabels=A5B4B8&currStreakNum=F1F5F4&sideNums=F1F5F4&dates=71848A" alt="GitHub contribution streak" />
 
+</div>
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://aby-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-35E9A0?style=for-the-badge&logo=vercel&logoColor=0B1114" alt="Portfolio" /></a>
+  <a href="https://github.com/iamaby-0"><img src="https://img.shields.io/badge/GitHub-18272C?style=for-the-badge&logo=github&logoColor=35E9A0" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/iamaby_0/"><img src="https://img.shields.io/badge/LeetCode-18272C?style=for-the-badge&logo=leetcode&logoColor=35E9A0" alt="LeetCode" /></a>
+  <a href="https://x.com/iamaby_0"><img src="https://img.shields.io/badge/X-18272C?style=for-the-badge&logo=x&logoColor=35E9A0" alt="X" /></a>
+  <a href="https://www.instagram.com/iamaby_0/"><img src="https://img.shields.io/badge/Instagram-18272C?style=for-the-badge&logo=instagram&logoColor=35E9A0" alt="Instagram" /></a>
+  <a href="mailto:abrarahmad.se@gmail.com"><img src="https://img.shields.io/badge/Email-18272C?style=for-the-badge&logo=gmail&logoColor=35E9A0" alt="Email" /></a>
 </div>
 
 ---
 
-## Connect
-
 <div align="center">
-
-<a href="https://aby-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-35E9A0?style=for-the-badge&logo=vercel&logoColor=0B1114" alt="Portfolio" /></a>
-<a href="mailto:abrarahmad.se@gmail.com"><img src="https://img.shields.io/badge/Email-121E22?style=for-the-badge&logo=gmail&logoColor=35E9A0&color=24363B" alt="Email" /></a>
-<a href="https://linkedin.com/in/abrar-ahmad-a0544626b"><img src="https://img.shields.io/badge/LinkedIn-121E22?style=for-the-badge&logo=linkedin&logoColor=35E9A0&color=24363B" alt="LinkedIn" /></a>
-<a href="https://github.com/iamaby-0"><img src="https://img.shields.io/badge/GitHub-121E22?style=for-the-badge&logo=github&logoColor=35E9A0&color=24363B" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/iamaby_0/"><img src="https://img.shields.io/badge/LeetCode-121E22?style=for-the-badge&logo=leetcode&logoColor=35E9A0&color=24363B" alt="LeetCode" /></a>
-<a href="https://x.com/iamaby_0"><img src="https://img.shields.io/badge/X-121E22?style=for-the-badge&logo=x&logoColor=35E9A0&color=24363B" alt="X" /></a>
-<a href="https://www.instagram.com/iamaby_0/"><img src="https://img.shields.io/badge/Instagram-121E22?style=for-the-badge&logo=instagram&logoColor=35E9A0&color=24363B" alt="Instagram" /></a>
-
-<br /><br />
-
-<sub>Designed with the Aby.Dev palette · Building useful software, one project at a time.</sub>
-
+  <sub>Designed with the Aby.Dev palette · <code>#0B1114</code> + <code>#35E9A0</code></sub>
 </div>
