@@ -89,7 +89,7 @@
       <h3>➗ Maths Doubt Solver</h3>
       A web application that integrates Google's Gemini API to help users solve mathematics questions.
       <br /><br />
-      <a href="https://github.com/idrag0/MathsDoubtSolver">View repository →</a>
+      <a href="https://github.com/iamaby-0/finance-tracker.git">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 HyperOSThemes.com</h3>
