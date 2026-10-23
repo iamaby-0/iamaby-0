@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Add the uploaded avatar to your profile repository as assets/aby-avatar.png -->
-<img src="assets/aby-avatar.png" alt="Aby.Dev neon coder avatar" width="220" />
+<img src="assets/aby-avatar.png" alt="Abrar Ahmad avatar" width="220" />
 
-# <span>ABY.DEV</span>
+# <span>Hi, I'm Abrar Ahmad 👋</span>
 
-### Java & Backend-Focused Software Developer
+### Full Stack & Backend Developer
 
 *Building useful software, APIs, and AI-powered applications.*
 
@@ -29,7 +28,7 @@
 ## About Me
 
 - 🎓 Computer Science Engineering graduate from **Galgotias University** — CGPA **8.51/10**
-- 💻 Focused on **Java, backend development, REST APIs, and database systems**
+- 💻 Focused on **Full Stack & Backend Development** — Java, Node.js, React, REST APIs, and database systems
 - 🤖 Building full-stack applications with third-party AI API integrations
 - 🌐 Creator and maintainer of **[HyperOSThemes.com](https://hyperosthemes.com/)**
 - 📍 Greater Noida, Uttar Pradesh, India
